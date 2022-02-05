@@ -55,7 +55,6 @@ qqqq/*
             bindings = <&kp RGUI>;
         };
         
-// &kp F1 &kp LC(S)
         
     };
 
